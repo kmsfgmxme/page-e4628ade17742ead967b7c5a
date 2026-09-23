@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "06186fbbad6c84ecb579688d",
+  "owner": "kmsfgmxme",
+  "repo": "page-e4628ade17742ead967b7c5a",
+  "title": "小飞机(FlyShadow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e4628ade17742ead967b7c5a",
+      "a": "小飞机(FlyShadow)",
+      "b": "机场官网线路发布页",
+      "entity": "小飞机(FlyShadow)",
+      "brand": "小飞机(FlyShadow)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7026161052a2db3861ff91999ad901af67c8a178326b758825d7292a6a427524",
+      "content": {
+        "primary_entity": "小飞机(FlyShadow)",
+        "keyword1": "小飞机(FlyShadow)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，小飞机(FlyShadow)提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB至1000GB流量及多设备在线需求。客户端支持Windows、macOS、iOS与Android，用户可按设备类型选择对应客户端并导入订阅。年付方案在月付基础上节省两个月费用，适合长期使用。",
+          "AI_HERO_SUBTITLE": "小飞机(FlyShadow) 多设备订阅",
+          "AI_HERO_INTRO": "小飞机(FlyShadow)是面向跨境访问场景的海外加速服务，按流量与在线设备数划分套餐。用户可依据日常用量与设备数量选择基础版、旗舰版或团队版，再结合常用系统下载对应客户端，导入订阅后即可使用。",
+          "AI_VISUAL_TITLE": "小飞机套餐与客户端",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案节省两个月费用",
+          "AI_FEATURES_TITLE": "订阅配置与套餐选择",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小与使用周期三个角度出发，快速匹配适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，可按家庭或团队规模选择。",
+          "AI_FEATURE_TITLE_2": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB与1000GB三档流量，兼顾轻度浏览与高频流媒体使用场景。",
+          "AI_FEATURE_TITLE_3": "客户端按系统下载",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、iOS与Android各有对应客户端，下载后导入订阅地址即可完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS与Android客户端可按系统对应下载。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，均可按年付。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再选择套餐并完成订阅配置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据设备数和月流量需求，在基础版、旗舰版与团队版中选择合适档位。",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TEXT_2": "确认设备操作系统与客户端版本要求，选择对应系统客户端下载。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "打开客户端，按客户端文档导入订阅地址，保存后选择节点连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小飞机(FlyShadow)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持Windows、macOS、iOS与Android客户端，具体版本以客户端下载页说明为准。",
+          "AI_FAQ_QUESTION_2": "套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "主要区别在月流量、同时在线设备数和线路类型，基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用更经济。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅地址？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址后保存并更新节点列表。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "支持在账户内升级或调整套餐，具体规则请查看套餐变更说明。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选择套餐，下载对应客户端并导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "youruowu.cn",
+    "host": "youruowu.cn"
+  },
+  "file_hashes": {
+    "index.html": "941fd45cd6ff144ab09035832f35a78fb5732393805d2e8ab1e1fb11f0737a66",
+    "sitemap.xml": "e365ce2c4ca76d8633c9222f0bef779f36f5427e4cc16b7e69cc2480422d9c13",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a3efd563a12bbcb394648d64e618fc080cb99544a26155f843b272689025b8a",
+    "robots.txt": "8cca17fbd9392a255ff15b5a289256ae39b17322e43d3a6ff9187da168f1b4e2",
+    "2cbe0bb928e9766ac1b680edc537fc2c.txt": "afab339cf62a91478110cdfe26219a712e18a59afb65a4d2eb625e677a895bcc"
+  },
+  "revision": "db80692eec20b30e3b755d601b1c491e5855846adbf58257a10bea1b63b7697d"
+}

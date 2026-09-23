@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youruowu.cn/sitemap.xml
